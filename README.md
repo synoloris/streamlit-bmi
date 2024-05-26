@@ -1,5 +1,5 @@
 # Body Mass Index Dashboard
 
-## Deployment Streamlit Cloud
-
-Connect repo and <a href="https://share.streamlit.io/mosazhaw/chat-playground/main/app.py">deploy</a>.
+## Deployment
+<a href="https://vonlalor-bmi-app.streamlit.app/">Streamlit Cloud</a>
+<a href="https://streamlit-bmi.azurewebsites.net/">Azure</a>.
